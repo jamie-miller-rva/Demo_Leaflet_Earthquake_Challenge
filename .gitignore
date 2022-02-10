@@ -1,5 +1,5 @@
 # add config.js to gitignore
-config.js
+# config.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
